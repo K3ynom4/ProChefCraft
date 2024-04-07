@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="ProChefCraft">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/dist/ProChefCraft.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
